@@ -8,9 +8,7 @@ I'm a passionate software engineer focused on building clean, efficient, and use
 
 | Stats | Top Languages |
 |-------|---------------|
-| ![Zaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaidAR49
-&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaidAR49
-&layout=compact&theme=radical) |
+| ![Zaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaidAR49&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaidAR49&layout=compact&theme=radical) |
 
 ---
 
@@ -34,11 +32,9 @@ I'm a passionate software engineer focused on building clean, efficient, and use
 
 ## 🌐 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ZaidAR49
-.dev@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zaid-radaideh/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ZaidAR49.dev@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaid-radaideh/)  
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/ZaidAR49
-/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/ZaidAR49/count.svg)
