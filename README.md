@@ -8,8 +8,7 @@ I'm a passionate software engineer focused on building clean, efficient, and use
 
 | Stats | Top Languages |
 |-------|---------------|
-|![Zaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaidAR49&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&theme=radical&cache_seconds=0)|
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaidAR49&layout=compact&theme=radical) |
+| ![Zaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaidAR49&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&theme=radical&cache_seconds=0) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaidAR49&layout=compact&theme=radical) |
 
 ---
 
