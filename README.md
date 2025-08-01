@@ -47,8 +47,4 @@ I'm a passionate software engineer focused on building clean, efficient, and use
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZaidAR49&theme=radical&hide_border=true)
-
----
-
 ![Visitor Badge](https://komarev.com/ghpvc/?username=ZaidAR49&style=flat-square)
