@@ -1,8 +1,13 @@
-# Hi 👋! I'm Zaid Radaideh, a Full-Stack Developer from Jordan 🇯🇴
+# Hi 👋! I'm Zaid Radaideh, a Full-Stack Developer from Jordan
 
 I'm a passionate software engineer focused on building clean, efficient, and user-centered full-stack web applications. I enjoy exploring new technologies, and I've built modern projects using React, TypeScript, Node.js, and Tailwind CSS.
 
 ---
+## 👨‍💻 About Me
+- 🎓 CS Graduate from JUST University (Jordan)
+- 🌐 Passionate full-stack developer using React, Node.js & PostgreSQL
+- 🔭 Always building, always learning
+- 📫 Reach me at ZaidAR49.dev@gmail.com
 
 ## 📊 GitHub Stats
 
@@ -39,6 +44,11 @@ I'm a passionate software engineer focused on building clean, efficient, and use
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
+---
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ZaidAR49&theme=radical)
+[![Zaid's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ZaidAR49&theme=react-dark)](https://github.com/ZaidAR49)
 
 ---
 
