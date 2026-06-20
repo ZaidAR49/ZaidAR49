@@ -7,7 +7,7 @@ I'm a passionate software engineer focused on building clean, efficient, and use
 - 🎓 Software engineering Graduate from JUST University (2025/Jordan)
 - 🌐 Passionate full-stack developer using React, Node.js & PostgreSQL
 - 🔭 Always building, always learning
-- 📫 Reach me at ZaidAR49.dev@gmail.com
+- 📫 Reach me at zaidradaideh.dev@gmail.com
 
 ## 📊 GitHub Stats
 
